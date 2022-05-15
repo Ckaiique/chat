@@ -1,0 +1,1 @@
+docker run -d -p 8081:80 -v$(pwd):/var/www/html php_mysql:7.4-apache 
