@@ -1,7 +1,7 @@
 # chat
 Eu sempre tive vontades de criar um chat mais eu não sabia como fazia , então fui estudar, olha o resultado saindo kkk.
 
-Faz exatamente 6 meses que comecei a estudar Programção esse é  para o eu do Futuro.
+Faz exatamente 7 meses que comecei a estudar Programção esse é  para o eu do Futuro. 15/05/2022
 
 para poder funcionar o CHAT você  precisa executar esse  comando.
 1 = caso você estejea  usando Dokecer preste atenção na versão do seu php o meu aqui eu uso 7.4 
